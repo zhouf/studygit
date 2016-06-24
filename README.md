@@ -1,2 +1,2 @@
 # studygit
-study test project
+study test web project
